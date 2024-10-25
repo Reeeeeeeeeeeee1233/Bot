@@ -36,9 +36,9 @@ seed(4321)
 shuffle(first_names)
 
 # Start message
-link = input("Please input referral link: ")
+link = input("https://temu.com/s/4zdv4XS6Nc1aOH8w: ")
 num = input("How many registrations would you like to complete: ")
-print("Starting bot for " + num + " registrations...")
+print("Starting bot for " 50 num 50 " registrations...")
 
 def fakeInfo():
     # Generate random number for fake info
